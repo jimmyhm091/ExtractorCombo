@@ -6,6 +6,6 @@ https://github.com/jimmyhm091/ExtractorCombo
 
 cd/ExtractorCombo
 
-phyton3 Extractor.py
+phyton3 Extractor.py 
 
 
